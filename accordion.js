@@ -1,7 +1,7 @@
 
-// function sectionTitle() {
-//   document.getElementsByClassName("js-click").onclick = console.log("open");
-// }
+// // function sectionTitle() {
+// //   document.getElementsByClassName("js-click").onclick = console.log("open");
+// // }
 
 function sectionTitle(target) {
   // console.log("open");
@@ -10,7 +10,7 @@ function sectionTitle(target) {
   // create a reference to all section using class name
   var divsToHide = document.getElementsByClassName("accordion-section")
   // loop through each section
-  for (var i = o; i<divsToHide; i++){
+  for (var i = 0; i<divsToHide.length; i++){
     //hide each section
     divsToHide[i].style.display ="none";
   }

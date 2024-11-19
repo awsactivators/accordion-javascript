@@ -1,14 +1,3 @@
 # JavaScript Accordion
 
-A basic JavaScript and HTML accordion.
-
-***
-
-## Repo Resources
-
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [W3Schools - JavaScript](https://www.w3schools.com/js/)
-
-<a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
-</a>
+This project is a simple, interactive accordion built with HTML, CSS, and JavaScript. It allows users to expand and collapse sections by clicking on their headers. When a section is opened, any previously opened section is automatically closed, ensuring only one section is visible at a time. The design is fully customizable and can be easily adapted for various use cases.

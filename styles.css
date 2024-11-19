@@ -2,3 +2,7 @@
 .accordion-section {
     display: none;
 }
+
+.accordion {
+    background-color: bisque;
+}
